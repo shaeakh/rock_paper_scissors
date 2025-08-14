@@ -113,6 +113,7 @@ WebSocket endpoint: **ws\://127.0.0.1:8000/ws/predict**
 
 We trained the YOLOv8 model using **Roboflow** and **Google Colab**.
 📎 **Colab Link:** [Open in Google Colab](https://colab.research.google.com/drive/1Cjfb3QE0jLA8wcqyvgUW_uc-ZClSRbco?usp=sharing)
+📎 **Dataset:** [Open in Roboflow](https://universe.roboflow.com/roboflow-58fyf/rock-paper-scissors-sxsw))
 
 ### **Colab Codes**
 
